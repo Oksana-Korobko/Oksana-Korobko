@@ -17,8 +17,9 @@ I am currently looking for a new job as a front-end development. I worked as a c
 ![Static Badge](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=black&labelColor=%23F7DF1E)
 ![Static Badge](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=black&labelColor=%2361DAFB)
 
-![Oksana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oksana-Korobko&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oksana-Korobko&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oksana-Korobko&layout=compact)
 
+![Oksana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oksana-Korobko&show_icons=true&theme=transparent) 
 
 
 
