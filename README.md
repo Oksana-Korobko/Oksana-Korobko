@@ -10,7 +10,8 @@ I am currently looking for a new job as a front-end development. I worked as a c
 
 #### Top technologies
 
-![Html5 Badge](https://img.shields.io/badge/html5-white?style=for-the-badge&logo=html5)
+![Static Badge](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=black&labelColor=%23E34F26)
+
 ![Static Badge](https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3)
 ![Static Badge](https://img.shields.io/badge/bootstrap-white?style=for-the-badge&logo=bootstrap)
 ![Static Badge](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwindcss&logoColor=black&labelColor=%2306B6D4)
