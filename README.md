@@ -4,7 +4,8 @@ I am currently looking for a new job as a front-end development. I worked as a c
 
 📫Reach me out!
 
-[![Static Badge](https://img.shields.io/badge/Yuotube-%23FF0000?style=flat&logo=Youtube)](https://www.youtube.com/@OksanaKorobkook)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/oksana-korobko-fd/)
+
 
 
 
