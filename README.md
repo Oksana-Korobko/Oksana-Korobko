@@ -6,6 +6,7 @@ I am currently looking for a new job as a front-end development. I worked as a c
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/oksana-korobko-fd/)
 [![Mail Badge](https://img.shields.io/badge/gmail-white?style=flat&logo=gmail)](mailto:oksana.korobko.fd@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/telegram-white?style=flat&logo=telegram)](https://t.me/oksana_omk)
 
 
 
