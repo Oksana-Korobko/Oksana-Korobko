@@ -12,6 +12,8 @@ I am currently looking for a new job as a front-end development. I worked as a c
 
 ![Static Badge](https://img.shields.io/badge/html5-white?style=flat&logo=html5)
 ![Static Badge](https://img.shields.io/badge/css3-%231572B6?style=flat&logo=css3)
+![Static Badge](https://img.shields.io/badge/bootstrap-white?style=flat&logo=bootstrap)
+![Static Badge](https://img.shields.io/badge/tailwindcss-black?style=flat&logo=tailwindcss)
 ![Static Badge](https://img.shields.io/badge/javascript-white?style=flat&logo=javascript)
 ![Static Badge](https://img.shields.io/badge/react-black?style=flat&logo=react)
 
